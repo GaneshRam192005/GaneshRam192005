@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GaneshRam
+- 👋 Hi, I’m Ganesh Ram
 - 👀 I’m interested in WEBDEVELOPEMENT
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
